@@ -1,10 +1,11 @@
 #  Hasala Kithmina - Personal Portfolio Website
 
+Welcome to my personal portfolio website — [kithm.online](https://kithm.online). This site showcases my background, skills, and projects as a Computing undergraduate and aspiring IT professional.
+
 
 ![Portfolio](https://github.com/user-attachments/assets/59d8c17c-b47b-49ed-a133-cbaa80234c77)
 
 
-Welcome to my personal portfolio website — [kithm.online](https://kithm.online). This site showcases my background, skills, and projects as a Computing undergraduate and aspiring IT professional.
 
 ## Project Overview
 
