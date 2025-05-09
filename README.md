@@ -11,12 +11,6 @@ Welcome to my personal portfolio website — [kithm.online](https://kithm.online
 
 This portfolio is designed to introduce who I am, what I do, and the work I’m passionate about. It highlights my journey in IT support, web development, and academic achievements.
 
-## Built With
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
-- **Other:** Responsive design principles
 
 ## Features
 
